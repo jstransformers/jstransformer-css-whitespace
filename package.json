@@ -1,0 +1,29 @@
+{
+  "name": "jstransformer-css-whitespace",
+  "version": "0.0.1",
+  "description": "Whitespace significant CSS support for JSTransformers.",
+  "keywords": [
+    "jstransformer",
+    "css-whitespace"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "istanbul": "^0.3.5",
+    "testit": "^2.0.2"
+  },
+  "scripts": {
+    "test": "node test",
+    "coverage": "istanbul cover test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jstransformers/jstransformer-css-whitespace.git"
+  },
+  "author": "Rob Loach <robloach@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "css-whitespace": "^1.1.1"
+  }
+}
