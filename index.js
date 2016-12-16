@@ -1,6 +1,6 @@
-'use strict';
+'use strict'
 
-exports.name = 'css-whitespace';
-exports.outputFormat = 'css';
+exports.name = 'css-whitespace'
+exports.outputFormat = 'css'
 
-exports.render = require('css-whitespace');
+exports.render = require('css-whitespace')
