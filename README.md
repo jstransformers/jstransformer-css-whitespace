@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var css = require('jstransformer')(require('jstransformer-css-whitespace'));
+var css = require('jstransformer')(require('jstransformer-css-whitespace'))
 
 css.render('body\n  color: #888\n').body
 //=> 'body { color: #888; }'
