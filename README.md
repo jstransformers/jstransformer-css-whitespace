@@ -5,7 +5,6 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-css-whitespace/master.svg)](https://travis-ci.org/jstransformers/jstransformer-css-whitespace)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-css-whitespace/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-css-whitespace)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-css-whitespace/master.svg)](http://david-dm.org/jstransformers/jstransformer-css-whitespace)
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-css-whitespace.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/jstransformer-css-whitespace.svg)](https://www.npmjs.org/package/jstransformer-css-whitespace)
 
 ## Installation
